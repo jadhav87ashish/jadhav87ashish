@@ -41,11 +41,15 @@
   </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 
 <a href="https://docs.qameta.io/allure/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/qametaio_allure/qametaio_allure-icon.svg" alt="Allure" width="40" height="40"/> 
+  <img src="https://s3.eu-west-1.amazonaws.com/matrix.assets/cbnapp7fuq7flsqwoc9gn8hpo7ql" alt="Allure" width="40" height="40"/> 
 </a>
 
 <a href="https://karatelabs.io/" target="_blank" rel="noreferrer"> 
   <img src="https://miro.medium.com/v2/resize:fit:1400/1*SMv3zQAsUqApd1MAzwoBig.png" alt="Karate" width="40" height="40"/> 
+</a>
+
+<a href="https://k6.io/" target="_blank" rel="noreferrer"> 
+  <img src="https://static.wixstatic.com/media/850ae7_f83e574b8a5748f09afb14d3a4e24e04~mv2.png/v1/fill/w_863,h_539,al_c,q_90/850ae7_f83e574b8a5748f09afb14d3a4e24e04~mv2.png" alt="k6 Load Testing Tool" width="40" height="40"/> 
 </a>
 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
@@ -53,7 +57,9 @@
   </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
   
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+  
   <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> 
+  
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
   
   
