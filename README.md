@@ -4,16 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jadhav87ashish&label=Profile%20views&color=0e75b6&style=flat" alt="jadhav87ashish" /> </p>
 
 - 🔭 I’m currently working on **UI & API automation using playwright java**
-
 - 🌱 I’m currently learning **load and performance testing**
-
-- 👨‍💻 All of my projects are available at [https://github.com/jadhav87ashish](https://github.com/jadhav87ashish)
-
-- 💬 Ask me about **java, plawright, cucumber, BDD, framework building**
-
+- 👨‍💻 All of my projects are available at **https://github.com/jadhav87ashish**
+- 💬 Ask me about **java, playwright, cucumber, BDD, framework building**
 - 📫 How to reach me **jadhav87ashish@gmail.com**
-
-- 📄 Know about my experiences [Software Tester ( Manual + Automation) with 6 years of experience in testing of applications under development following Agile Methodology having Manual Testing (6+Years) experience in Functional / Non-Functional / UI / Database / Load / Performance / Accessibility / API testing & Automation Testing (3 Years) experience with Playwright java cucumber framework for UI & API automation, k6 framework for API load test, CI/CD with Jenkin, configuring webhooks for reporting in Slack and Karate framework for API Automation.](Software Tester ( Manual + Automation) with 6 years of experience in testing of applications under development following Agile Methodology having Manual Testing (6+Years) experience in Functional / Non-Functional / UI / Database / Load / Performance / Accessibility / API testing & Automation Testing (3 Years) experience with Playwright java cucumber framework for UI & API automation, k6 framework for API load test, CI/CD with Jenkin, configuring webhooks for reporting in Slack and Karate framework for API Automation.)
+- 📄 Know about my experiences **Software Tester ( Manual + Automation) with 6 years of experience in testing of applications under development following Agile Methodology having Manual Testing (6+Years) experience in Functional / Non-Functional / UI / Database / Load / Performance / Accessibility / API testing & Automation Testing (3 Years) experience with Playwright java cucumber framework for UI & API automation, k6 framework for API load test, CI/CD with Jenkin, configuring webhooks for reporting in Slack and Karate framework for API Automation.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
