@@ -1,5 +1,6 @@
 <h1 align="center">My Name is Ashish Jadhav</h1>
 <h3 align="center">A passionate full-stack software tester from India</h3>
+<img href="https://www.google.com/imgres?q=coding%20animated%20images%20open%20source&imgurl=https%3A%2F%2Fimg.freepik.com%2Ffree-photo%2F3d-portrait-people_23-2150793856.jpg%3Fsize%3D626%26ext%3Djpg%26ga%3DGA1.1.1369675164.1728777600%26semt%3Dais_hybrid-rr-similar&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fcartoon-programmer&docid=fGhGejc-bkdiaM&tbnid=Z_SRctb29dLUoM&vet=12ahUKEwj-46zKwouJAxWxoK8BHf76GHgQM3oECE8QAA..i&w=626&h=351&hcb=2&ved=2ahUKEwj-46zKwouJAxWxoK8BHf76GHgQM3oECE8QAA"</img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jadhav87ashish&label=Profile%20views&color=0e75b6&style=flat" alt="jadhav87ashish" /> </p>
 
