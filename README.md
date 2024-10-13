@@ -9,7 +9,7 @@
 - 👨‍💻 All of my projects are available at **https://github.com/jadhav87ashish**
 - 💬 Ask me about **java, playwright, cucumber, BDD, framework building**
 - 📫 How to reach me **jadhav87ashish@gmail.com**
-- 📫 Call me / What'sApp me at **8446333647**
+- 📫 Call me / WhatsApp me at **8446333647**
 - 📄 Know about my experiences **Software Tester ( Manual + Automation) with 6 years of experience in testing of applications under development following Agile Methodology having Manual Testing (6+Years) experience in Functional / Non-Functional / UI / Database / Load / Performance / Accessibility / API testing & Automation Testing (3 Years) experience with Playwright java cucumber framework for UI & API automation, k6 framework for API load test, CI/CD with Jenkin, configuring webhooks for reporting in Slack and Karate framework for API Automation.**
 
 <h3 align="left">Connect with me:</h3>
@@ -21,6 +21,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
+  <a href="https://playwright.dev/" target="_blank" rel="noreferrer"> 
+  <img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright Logo" width="40" height="40"/> 
+</a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
   </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
