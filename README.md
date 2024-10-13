@@ -1,5 +1,8 @@
-<p style="background-image: url('https://pixabay.com/illustrations/developer-programmer-coding-8764523/');">
-
+<style>
+p {
+  background-image: url('https://pixabay.com/illustrations/developer-programmer-coding-8764523/');
+}
+</style>
 
 <h1 align="center">My Name is Ashish Jadhav</h1>
 <h3 align="center">A passionate full-stack software tester from India</h3>
