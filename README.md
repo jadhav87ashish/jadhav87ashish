@@ -39,7 +39,7 @@
 </a>
 
 <a href="https://karatelabs.io/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/karatelabs/karatelabs-icon.svg" alt="Karate" width="40" height="40"/> 
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Finsiderengineering%2Fapi-testing-with-karate-framework-d62d4135447b&psig=AOvVaw2BiOnpvWINYevlnoUQkxGI&ust=1728917647817000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOC2xqXOi4kDFQAAAAAdAAAAABAE" alt="Karate" width="40" height="40"/> 
 </a>
 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
